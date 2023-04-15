@@ -1,2 +1,0 @@
-# ProyectoDCU
-README.md
